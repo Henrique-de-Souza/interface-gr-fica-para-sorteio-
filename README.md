@@ -73,6 +73,8 @@ telefone: (14) 99626-2918
 
 instagram: @enriquedesu
 
+--------------------------------------------------------------------------------------------------------------
+Dedico este projeto à comunidade da @python_brasil
 
 
 
